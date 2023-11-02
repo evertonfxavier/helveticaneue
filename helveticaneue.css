@@ -1,0 +1,42 @@
+@font-face {
+  font-family: "Helvetica Neue";
+  font-style: normal;
+  font-weight: 100;
+  src: url("https://github.com/evertonfxavier/helveticaneue/raw/main/helveticaneue-ultralight.ttf") format('ttf');
+}
+@font-face {
+  font-family: "Helvetica Neue";
+  font-style: normal;
+  font-weight: 200;
+  src: url("https://github.com/evertonfxavier/helveticaneue/raw/main/helveticaneue-thin.ttf") format('ttf');
+}
+@font-face {
+  font-family: "Helvetica Neue";
+  font-style: normal;
+  font-weight: 300;
+  src: url("https://github.com/evertonfxavier/helveticaneue/raw/main/helveticaneue-light.ttf") format('ttf');
+}
+@font-face {
+  font-family: "Helvetica Neue";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://github.com/evertonfxavier/helveticaneue/raw/main/helveticaneue.ttf") format('ttf');
+}
+@font-face {
+  font-family: "Helvetica Neue";
+  font-style: normal;
+  font-weight: 500;
+  src: url("https://github.com/evertonfxavier/helveticaneue/raw/main/helveticaneue-medium.ttf") format('ttf');
+}
+@font-face {
+  font-family: "Helvetica Neue";
+  font-style: normal;
+  font-weight: 700;
+  src: url("https://github.com/evertonfxavier/helveticaneue/raw/main/helveticaneue-bold.ttf") format('ttf');
+}
+@font-face {
+  font-family: "Helvetica Neue";
+  font-style: italic;
+  font-weight: 400;
+  src: url("https://github.com/evertonfxavier/helveticaneue/raw/main/helveticaneue-italic.ttf") format('ttf');
+}
